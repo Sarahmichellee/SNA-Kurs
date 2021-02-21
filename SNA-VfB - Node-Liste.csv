@@ -1,0 +1,26 @@
+id,name,type,age,function,representation,position,Organisation
+TH,Thomas Hitzlsperger,0,38,V,"SP, US, K",V,"dAdFK, VVfB"
+TK,Tobias Keller,0,NA,V,"F, VW, US",IV,VVfB
+OS,Oliver Schraft,0,53,V,K,MG,"KCddFL, VVfB"
+CV,Claus Vogt,0,51,AR,NA,V,"FCFP, IGH, ARVfB"
+WP,Wilfried Porth,0,62,AR,SP,STV,"DAG, MBB, HMSS, SWM, ARVfB"
+RA,Rainer Adrion,0,67,AR,NA,MG,"EH, ARVfB"
+HJ,Harmut Jenner,0,55,AR,NA,STV,"AKS, AKF, ARVfB"
+FR,Franz Reiner,0,53,AR,NA,MG,"DMAG, ARVfB"
+BS,Bertram Sugg,0,55,AR,NA,MG,"RBG, FCG, ARVfB"
+dAdFK,Deutsche Akademie der Fußball-Kultur,1,,,,,
+KCddFL,Komission Clubmedien der deutschen Fußball-Liga,1,,,,,
+FCFP,FC PlayFair! Verein für Integrität im Profifußball e. V.,1,,,,,
+IGH,Intensia Group Holding GmbH,1,,,,,
+HMSS,Hanns Martin Schleyer-Stiftung ,1,,,,,
+SWM,Südwestmetall,1,,,,,
+EH,11hilft e. V. ,1,,,,,
+AKS,Alfred Kärcher SE & Co. KG,1,,,,,
+AKF,Alfred-Kärcher-Förderstiftung,1,,,,,
+DMAG,Daimler Mobility AG,1,,,,,
+RBG,Robert-Bosch GmbH,1,,,,,
+FCG,Fanclub Courage Gerlingen,1,,,,,
+DAG,Daimler AG,1,,,,,
+MBB,Mercedes Benz Bank,1,,,,,
+VVfB,Vorstand des VfB,1,,,,,
+ARVfB,Aufsichtsrat des VfB,1,,,,,
