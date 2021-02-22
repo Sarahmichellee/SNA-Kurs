@@ -1,0 +1,71 @@
+# Datensatz VfB Stuttgart #
+Codebuch Stand 2021-02-22   
+erstellt von Sarah Huß (sh311@hdm-stuttgart.de)
+
+## Inhalt
+- Edges.csv (Edgelist)
+- Nodes.csv (Nodelist)
+- Codebuch.rm (Codierung der Datensätze)
+
+## Ursprung und Datenerhebung
+Die Erstellung des Testats ist eine open-book Aufgabe: Sie dürfen und sollen alles verfügbare Material verwenden. Es ist aber eine Einzelaufgabe: mit der Abgabe bestätigen Sie, dass Sie eigenständig die Aufgabe gelöst und eingereicht haben
+Beim VfB tobt ein Machtkampf um das Präsidentenamt. Ihre Aufgabe ist es, eine Netzwerkanalyse der Mitglieder des Vorstands und des Aufsichtsrats durchzuführen. Dazu interessiert uns besonders, wer mit wem vernetzt ist.
+
+Daten werden von de Seite des VfB (https://www.vfb.de/de/1893/club/vfb-ag/organe-der-vfb-ag/), dem Munzinger Archiv und eigener Google-Recherche erhoben.
+
+
+# EDGE-Attribute
+
+**id**  
+Die ID ist eine Abkürzung des Namens, diese muss in der Node- und Edgelist gleich sein.
+Bei natürlichen Personen ergibt sich die ID aus den Anfangsbuchstaben des Vor- und Nachnamens.
+Bei Organisationen ergibt sich die ID aus den Anfangsbuchstaben der einzelnen Wörter.
+
+**from**  
+Von wem die Beziehung ausgeht.
+
+**to**
+An wen die Beziehung geht.
+
+Da es sich um ein ungerichtetes Netzwerk handelt, ist es nicht von Bedeutung von wem die Beziehung ausgeht.
+
+# NODE-Attribute  
+  
+**id**  
+Die ID ist eine Abkürzung des Namens, diese muss in der Node- und Edgelist gleich sein.
+Bei natürlichen Personen ergibt sich die ID aus den Anfangsbuchstaben des Vor- und Nachnamens.
+Bei Organisationen ergibt sich die ID aus den Anfangsbuchstaben der einzelnen Wörter.
+
+**name**    
+Gibt den vollen Zu- und Nachnamen des Akteurs bei natürlichen Personen und den vollen Namen der Organisation an.
+  
+**age***    
+Welche Studienrichtung haben Sie vertieft?  
+Gibt das alter des Akteurs in natürlichen Zahlen an.
+
+**function**   
+Gibt an in welchem Gremium die Akteure innerhalb des VfBs tätig sind.
+V = Vorstand
+AR = Aufsichtsrat
+
+**representation**    
+Gibt an, in welchem Themenbereich der Akteurs innerhalb des VfB tätig ist.
+SP = Sport
+US = Unternehmenstrategie
+K = Kommunikation
+F = Finanzen
+VW = Verwaltung 
+  
+**position**    
+Gibt an in welcher Position der Akteur im jeweiligen Gremium ist.
+V = Vorstand
+IV = Interimsvorstand
+MG = Mitglied
+STV = Stellvertreter
+  
+**organisation**    
+Gibt an, in welcher Organisation der Akteur tätig ist (angegeben in ID, ID in der Nodelist einlesbar).    
+
+    
+
+##
