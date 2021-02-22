@@ -1,26 +1,26 @@
 id,name,type,age,function,representation,position,Organisation
 TH,Thomas Hitzlsperger,0,38,V,"SP, US, K",V,"dAdFK, VVfB"
-TK,Tobias Keller,0,NA,V,"F, VW, US",IV,VVfB
+TK,Tobias Keller,0,n/a,V,"F, VW, US",IV,VVfB
 OS,Oliver Schraft,0,53,V,K,MG,"KCddFL, VVfB"
-CV,Claus Vogt,0,51,AR,NA,V,"FCFP, IGH, ARVfB"
+CV,Claus Vogt,0,51,AR,n/a,V,"FCFP, IGH, ARVfB"
 WP,Wilfried Porth,0,62,AR,SP,STV,"DAG, MBB, HMSS, SWM, ARVfB"
-RA,Rainer Adrion,0,67,AR,NA,MG,"EH, ARVfB"
-HJ,Harmut Jenner,0,55,AR,NA,STV,"AKS, AKF, ARVfB"
-FR,Franz Reiner,0,53,AR,NA,MG,"DMAG, ARVfB"
-BS,Bertram Sugg,0,55,AR,NA,MG,"RBG, FCG, ARVfB"
-dAdFK,Deutsche Akademie der Fußball-Kultur,1,NA,NA,NA,NA,NA
-KCddFL,Komission Clubmedien der deutschen Fußball-Liga,1,NA,NA,NA,NA,NA
-FCFP,FC PlayFair! Verein für Integrität im Profifußball e. V.,1,NA,NA,NA,NA,NA
-IGH,Intensia Group Holding GmbH,1,NA,NA,NA,NA,NA
-HMSS,Hanns Martin Schleyer-Stiftung ,1,NA,NA,NA,NA,NA
-SWM,Südwestmetall,1,NA,NA,NA,NA,NA
-EH,11hilft e. V. ,1,NA,NA,NA,NA,NA
-AKS,Alfred Kärcher SE & Co. KG,1,NA,NA,NA,NA,NA
-AKF,Alfred-Kärcher-Förderstiftung,1,NA,NA,NA,NA,NA
-DMAG,Daimler Mobility AG,1,NA,NA,NA,NA,NA
-RBG,Robert-Bosch GmbH,1,NA,NA,NA,NA,NA
-FCG,Fanclub Courage Gerlingen,1,NA,NA,NA,NA,NA
-DAG,Daimler AG,1,NA,NA,NA,NA,NA
-MBB,Mercedes Benz Bank,1,NA,NA,NA,NA,NA
-VVfB,Vorstand des VfB,1,NA,NA,NA,NA,NA
-ARVfB,Aufsichtsrat des VfB,1,NA,NA,NA,NA,NA
+RA,Rainer Adrion,0,67,AR,n/a,MG,"EH, ARVfB"
+HJ,Harmut Jenner,0,55,AR,n/a,STV,"AKS, AKF, ARVfB"
+FR,Franz Reiner,0,53,AR,n/a,MG,"DMAG, ARVfB"
+BS,Bertram Sugg,0,55,AR,n/a,MG,"RBG, FCG, ARVfB"
+dAdFK,Deutsche Akademie der Fußball-Kultur,1,n/a,n/a,n/a,n/a,n/a
+KCddFL,Komission Clubmedien der deutschen Fußball-Liga,1,n/a,n/a,n/a,n/a,n/a
+FCFP,FC PlayFair! Verein für Integrität im Profifußball e. V.,1,n/a,n/a,n/a,n/a,n/a
+IGH,Intensia Group Holding GmbH,1,n/a,n/a,n/a,n/a,n/a
+HMSS,Hanns Martin Schleyer-Stiftung ,1,n/a,n/a,n/a,n/a,n/a
+SWM,Südwestmetall,1,n/a,n/a,n/a,n/a,n/a
+EH,11hilft e. V. ,1,n/a,n/a,n/a,n/a,n/a
+AKS,Alfred Kärcher SE & Co. KG,1,n/a,n/a,n/a,n/a,n/a
+AKF,Alfred-Kärcher-Förderstiftung,1,n/a,n/a,n/a,n/a,n/a
+DMAG,Daimler Mobility AG,1,n/a,n/a,n/a,n/a,n/a
+RBG,Robert-Bosch GmbH,1,n/a,n/a,n/a,n/a,n/a
+FCG,Fanclub Courage Gerlingen,1,n/a,n/a,n/a,n/a,n/a
+DAG,Daimler AG,1,n/a,n/a,n/a,n/a,n/a
+MBB,Mercedes Benz Bank,1,n/a,n/a,n/a,n/a,n/a
+VVfB,Vorstand des VfB,1,n/a,n/a,n/a,n/a,n/a
+ARVfB,Aufsichtsrat des VfB,1,n/a,n/a,n/a,n/a,n/a
